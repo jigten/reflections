@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	We create a git repository which creates a hidden .git folder. This is done to initialize the git repository for use with git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area allows us to add individually selected files to be committed to the repository. It acts as a buffer which can be edited so that the user can commit files individually.
