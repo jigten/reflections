@@ -7,3 +7,5 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 	We can view the difference in the code in the staging area and the most recent commit and see if our changes are the one we wish to commit.
 	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	If we use branches for each new feature to a program we can keep track of all the features that have been added and when. We can basically view the history of all major changes to the code.
