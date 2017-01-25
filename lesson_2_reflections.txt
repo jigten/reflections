@@ -3,3 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The staging area allows us to add individually selected files to be committed to the repository. It acts as a buffer which can be edited so that the user can commit files individually.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	We can view the difference in the code in the staging area and the most recent commit and see if our changes are the one we wish to commit.
+	
